@@ -27,7 +27,7 @@ public class TestDisco {
 	}
 
 	@Test
-	public void testQueCalculaLaSuperficie(){
+	public void testParaCalcularLaSuperficie(){
 		
 		Disco miDisco = new Disco(2.0,4.0);
 		Double valorActual = miDisco.calcularSuperficie();
